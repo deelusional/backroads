@@ -6,6 +6,7 @@ const Services = () => {
       <div className="section-title">
         <h2>our <span>services</span></h2>
       </div>
+      
       <div className="section-center services-center">
         <article className="service">
           <span className="service-icon"><i className="fas fa-wallet fa-fw"></i></span>
