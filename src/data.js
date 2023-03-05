@@ -19,7 +19,6 @@ export const socialLinks = [
 
 export const services = [
   {
-    text: 'Lorem ipsum dolor sit amet consecƒtetur adipisicing elit. Asperiores, officia',
     id: 1,
     icon: 'fas fa-wallet fa-fw',
     title: 'saving money',
