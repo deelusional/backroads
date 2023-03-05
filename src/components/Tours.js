@@ -1,6 +1,7 @@
 import React from "react";
 import Title from './Title.js';
 
+
 const Tours = () => {
   return (
     <section className="section" id="tours">

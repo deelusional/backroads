@@ -1,5 +1,6 @@
 import Title from './Title'
 import { services } from '../data'
+
 const Services = () => {
   return (
     <section className='section services' id='services'>
