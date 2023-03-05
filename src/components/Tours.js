@@ -8,6 +8,7 @@ const Tours = () => {
       <Title title='featured' subTitle='tours' />
       
       <div className="section-center featured-center">
+      {/*  */}
         <article className="tour-card">
           <div className="tour-img-container">
             <img src="./images/tour-1.jpeg" className="tour-img" alt="" />
