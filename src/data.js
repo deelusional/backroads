@@ -1,8 +1,8 @@
 // Import the images:
-import tour1 from './images/tour-1.jpeg'
-import tour2 from './images/tour-2.jpeg'
-import tour3 from './images/tour-3.jpeg'
-import tour4 from './images/tour-4.jpeg'
+import tour1 from './images/tour-1.jpeg';
+import tour2 from './images/tour-2.jpeg';
+import tour3 from './images/tour-3.jpeg';
+import tour4 from './images/tour-4.jpeg';
 
 export const pageLinks = [
   { id: 1, href: '#home', text: 'home' },
@@ -44,7 +44,7 @@ export const tours = [
     image: tour1,
     date: 'august 26th, 2020',
     title: 'Tibet Adventure',
-    info: ` Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumque vitae tempore voluptatum maxime reprehenderit eum quod exercitationem fugit, qui corporis.`,
+    info: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumque vitae tempore voluptatum maxime reprehenderit eum quod exercitationem fugit, qui corporis.',
     location: 'china',
     duration: 6,
     cost: 2100,
@@ -54,7 +54,7 @@ export const tours = [
     image: tour2,
     date: 'october 1th, 2020',
     title: 'best of java',
-    info: ` Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumque vitae tempore voluptatum maxime reprehenderit eum quod exercitationem fugit, qui corporis.`,
+    info: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumque vitae tempore voluptatum maxime reprehenderit eum quod exercitationem fugit, qui corporis.',
     location: 'indonesia',
     duration: 11,
     cost: 1400,
@@ -64,7 +64,7 @@ export const tours = [
     image: tour3,
     date: 'september 15th, 2020',
     title: 'explore hong kong',
-    info: ` Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumque vitae tempore voluptatum maxime reprehenderit eum quod exercitationem fugit, qui corporis.`,
+    info: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumque vitae tempore voluptatum maxime reprehenderit eum quod exercitationem fugit, qui corporis.',
     location: 'hong kong',
     duration: 8,
     cost: 5000,
@@ -74,7 +74,7 @@ export const tours = [
     image: tour4,
     date: 'december 5th, 2019',
     title: 'kenya highlights',
-    info: ` Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumque vitae tempore voluptatum maxime reprehenderit eum quod exercitationem fugit, qui corporis.`,
+    info: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumque vitae tempore voluptatum maxime reprehenderit eum quod exercitationem fugit, qui corporis.',
     location: 'kenya',
     duration: 20,
     cost: 3300,
